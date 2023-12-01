@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B11E86F72B19B221004BADC5 /* IMG_1849.PNG in Resources */ = {isa = PBXBuildFile; fileRef = B11E86F52B19B221004BADC5 /* IMG_1849.PNG */; };
+		B11E86F82B19B221004BADC5 /* IMG_1850.PNG in Resources */ = {isa = PBXBuildFile; fileRef = B11E86F62B19B221004BADC5 /* IMG_1850.PNG */; };
 		B1CBD2342A52CD680038A27D /* WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CBD2332A52CD680038A27D /* WeatherApp.swift */; };
 		B1CBD2362A52CD680038A27D /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CBD2352A52CD680038A27D /* WelcomeView.swift */; };
 		B1CBD2382A52CD6A0038A27D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1CBD2372A52CD6A0038A27D /* Assets.xcassets */; };
@@ -38,6 +40,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B11E86F22B19B054004BADC5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B11E86F52B19B221004BADC5 /* IMG_1849.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1849.PNG; sourceTree = "<group>"; };
+		B11E86F62B19B221004BADC5 /* IMG_1850.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1850.PNG; sourceTree = "<group>"; };
 		B1CBD2302A52CD680038A27D /* PaliWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PaliWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1CBD2332A52CD680038A27D /* WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherApp.swift; sourceTree = "<group>"; };
 		B1CBD2352A52CD680038A27D /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
@@ -81,9 +86,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B11E86F32B19B1A3004BADC5 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B11E86F52B19B221004BADC5 /* IMG_1849.PNG */,
+				B11E86F62B19B221004BADC5 /* IMG_1850.PNG */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		B11E86F42B19B1B9004BADC5 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		B1CBD2272A52CD680038A27D = {
 			isa = PBXGroup;
 			children = (
+				B11E86F32B19B1A3004BADC5 /* Images */,
+				B11E86F22B19B054004BADC5 /* README.md */,
 				B1CBD2322A52CD680038A27D /* Weather */,
 				B1CBD2442A52CD6A0038A27D /* WeatherTests */,
 				B1CBD24E2A52CD6A0038A27D /* WeatherUITests */,
@@ -104,6 +127,7 @@
 		B1CBD2322A52CD680038A27D /* Weather */ = {
 			isa = PBXGroup;
 			children = (
+				B11E86F42B19B1B9004BADC5 /* Images */,
 				B1D11D422A680AAA0081AB42 /* Info.plist */,
 				B1D11D3F2A680A160081AB42 /* Services */,
 				B1D11D3D2A67FF5E0081AB42 /* Views */,
@@ -264,6 +288,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1CBD23B2A52CD6A0038A27D /* Preview Assets.xcassets in Resources */,
+				B11E86F82B19B221004BADC5 /* IMG_1850.PNG in Resources */,
+				B11E86F72B19B221004BADC5 /* IMG_1849.PNG in Resources */,
 				B1CBD2382A52CD6A0038A27D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
