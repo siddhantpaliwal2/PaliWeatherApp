@@ -1,0 +1,12 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 20H18.5" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 27H34.5" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.2703 12.2193C12.6011 11.1549 13.2219 10.2036 14.0631 9.47223C14.9042 8.74084 15.9325 8.25823 17.0326 8.0785C18.1327 7.89878 19.2611 8.02906 20.2913 8.45472C21.3214 8.88038 22.2127 9.58461 22.8651 10.4884C23.5174 11.3922 23.9051 12.4599 23.9847 13.5717C24.0643 14.6836 23.8325 15.7956 23.3155 16.7831C22.7985 17.7706 22.0166 18.5945 21.0575 19.1625C20.0984 19.7305 19.0001 20.0202 17.8856 19.9989" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<path d="M34 27C35.1147 27 36.2073 27.3105 37.1554 27.8967C38.1034 28.4829 38.8695 29.3216 39.3676 30.3188C39.8657 31.316 40.0762 32.4322 39.9754 33.5423C39.8747 34.6524 39.4667 35.7125 38.7972 36.6037C38.1277 37.4949 37.2232 38.182 36.1851 38.588C35.147 38.9939 34.0163 39.1026 32.9199 38.902C31.8234 38.7013 30.8045 38.1992 29.9775 37.4519C29.1504 36.7046 28.5479 35.7417 28.2374 34.6711" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<circle cx="30" cy="10" r="2" fill="white"/>
+<circle cx="30" cy="18" r="2" fill="white"/>
+<circle cx="34" cy="14" r="2" fill="white"/>
+<circle cx="38" cy="10" r="2" fill="white"/>
+<circle cx="38" cy="18" r="2" fill="white"/>
+<path d="M8 33H13.5" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
